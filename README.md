@@ -1,2 +1,3 @@
 # ThucHanh01_PhamNgocNga
-"E ThucHanhda_PhamNgocNga" 
+Bài thực hành buổi1
+
